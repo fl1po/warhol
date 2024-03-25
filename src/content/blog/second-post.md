@@ -1,16 +1,67 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+title: 'Колхозник. Полная деконструкция'
+description: 'Мы разберём стереотип о современном колхознике на мелкие детали и потом соберем заново, но получим уже нечто иное.'
+pubDate: 'Sep 19 2021'
+heroImage: '/kolhoz.webp'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Мы разберём стереотип о современном колхознике на мелкие детали и потом соберем заново, но получим уже нечто иное.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+На самом деле дискуссия насчёт определения слова «колхозник» имеет огромный масштаб, и вы по ходу текста поймёте почему.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Есть две коннотации слова «колхозник». Первая — сельский рабочий, участвующий в сельскохозяйственном кооперативе. Вторая — стереотип, где «колхозник» является уничижительным обозначением необразованного и безвкусного человека.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+«Колхоз есть социалистическая форма хозяйственной организации так же, как советы являются социалистической формой политической организации» — Сталин.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Тема употребления «колхозника» в негативной коннотации меня интересовала давно, в первую очередь применительно к музыке. В интернете есть миллион разборов на этот счёт, от сайтов типа Лурки до Вандерзина, где «колхозников» аккуратно назвали «low class». Но до сути так никто и не докопался. Ну что, начнём разбор на составляющие.
+
+Колхоз — сокращение, а точнее акроним от словосочетания «коллективное хозяйство». Впервые колхоз появился в 1918 году. Коллективное хозяйство — сельское хозяйство, в начале это было кооперативной организацией крестьян. Член подобной кооперации сокращённо назывался колхозником. Коллективизация проводилась преимущественно принудительно-административными методами, иными словами, насильственными. Русская деревня не хотела лишаться частной собственности, отдавать свой скот и свою землю, особенно, так называемые кулаки, богатые крестьяне. В Википедии написано, что при коллективизации погибло около 7 миллионов человек. Долгое время у колхозников не было паспортов и даже прав особо. Также нужно учесть, что был внесён так называемый «закон о трёх колосках», где за воровство казенного зерна давали не только реальные сроки, но и предусматривался расстрел. Самое ужасное, что за урон колхозу принимали не только собирание колосков с поля, но и беспокойство колхозного поросёнка (одному парню за это дали 10 лет, но информация не проверена). В итоге реальные сроки получили более сотни тысяч колхозников.
+
+Получается, что колхозниками были люди деревенские, бедные, необразованные, незащищенные? и они не обладали возможностями выбраться в города.
+
+Вот сейчас важно. Тогда торжествовала идеология коллективизма, а противоположность этой идеологии — индивидуализм. И индивидуальность как раз колхозы и стирали. Собственно, на этом моменте и начинает зарождаться второе понятие «колхозника».
+
+Первые стереотипные употребления слова «колхозник» начались в 60–70 годах. Когда сельские жители начали наезжать, а потом и переезжать в города. Городские подмечали их темноту и неумение обращаться с благами городской цивилизации, так и родилось уничижительное выражение «колхозник», впоследствии ставшее нарицательным.
+
+Получается, что в обычном стереотипном смысле противоположностью «колхознику» выступал горожанин. А если рассматривать употребление «колхозник» применительно к творчеству, то крайней противоположностью будет слово «интеллигент».
+
+Получается, что с этой точки зрения для Набокова, Стравинского и Бродского даже самые стильные самобытные музыканты и Инстаграм-блогеры представлялись бы колхозниками.
+
+Но от творческой интеллигенции мы никогда не слышали уничижительных стереотипных высказываний о бедных и необразованных слоях населения. Скорее, наоборот.
+
+Придя к этой мысли, я понял, что сам не раз определял плохой
+(по моему мнению) вкус человека как колхозный или называл колхозниками тех, кто делают нестильную музыку. Но сам я, действительно, не из семьи интеллигентов, у меня профильное образование слесаря.
+
+Получается, что колхозниками людей называют только те, кто переборол в себе внутреннего колхозника.
+
+Выходит, что называть кого-то колхозником непочтительно, но с другой стороны, я бы и рад не называть какого-то неумелого музыканта колхозником, но просто нет подходящего синонима. Неискушённый, неэрудированный человек с плохим вкусом — все это звучит слишком пресно.
+
+Тем более, есть исполнители, которые вполне одобрительно бы отнеслись, если бы их слушателей назвали колхозниками, например Игорь Растеряев, который посвящает песни комбайнерам и трактористам.
+
+Вдобавок некоторые люди относятся к этому с чувством самоиронии и уже сами идентифицируют себя как колхозников. Например это сделал рэпер Mnogoznaal в своём суперхите «Колхозник».
+
+То есть не стоит стыдиться своей колхозности. Правильно поставленный диагноз — это уже наполовину решенная проблема.
+
+Но проблема ли это?
+
+Оказывается это вовсе и не проблема. «Колхозная» музыка стала частью поп-культуры уже в девяностых. Это песни для дальнобойщиков от Алисы и ДДТ, совершенно нестильная музыка для бандитов и алкоголиков — колхозный шансон. Сейчас это кальян-рэп. Впервые начал культивировать «колхозность» в поп-музыке Юрий Хой, выпустив со своей группой Сектор Газа песню «Колхозный панк», где были все симптомы колхозности, это и плохое сведение, и совершено простые рифмы, приземлённая тематика, сквернословие. Вот строчка: «из колхозной молодёжи панковал один лишь я, я носил портки из кожи и был грязный как свинья». По итогу музыку Хоя, несмотря на всю контркультурность, слушала вся Россия. Хой подобрал ключ от колхозного амбара. Самое ужасное, что обывателей легко эксплуатировать такой музыкой, ведь что-то эстетичное, типа Radiohead или Синекдоха Монток, они не понимают, но запрос на развлечения у них есть, поэтому приходит Сергей Шнуров и начинает во все щели юзать обывателей своими безвкусными частушками. Но при этом он все же гений, потому что кто-то всё-таки должен окучить данную аудиторию.
+
+Откуда у России взялся запрос на колхозность? Видимо, оттуда же, откуда ностальгия по СССР и беспробудная тяга к сталинизму. Обыватель не может сам сориентироваться в том, что такое хорошо и что такое плохо, его представление о правде напрочь искажено, и не стоит его винить за это. Мы все в одной лодке.
+
+Почему мы не слышим колхозной музыки из Америки?
+
+Тут можно сделать вывод, что колхозная музыка — это именно та русская идентичность, русская оригинальность, которая у нас есть и которую надо беречь, — это первое. А второе — там всё-таки тоже есть сельская музыка, над которой посмеиваются городские, — это кантри. Но в отличие от колхозников, западная деревенщина имела возможность поехать на многомиллионную студию и записываться на лучшем оборудовании, а потом получать Grammy и сотни миллионов долларов.
+
+Безусловно, это связано с выбранным на западе курсом на индивидуализм, вместо нашего коллективизма. Само понятие личность входит в понятие индивидуум. Сложно раскрыть личность в коллективе, где по сверхидее сам коллектив должен доминировать над личностью.
+
+Bonus
+
+Что касается высказываний Ромы из Мальбэк
+
+В принципе, он сделал то, что хотел Kanye West. Только Kanye все устроил аллегорически с многомиллионным шоу. Kanye подал, казалось бы, совершенно немассовую музыку настолько широко, что обыватели просто испугались. Kanye спровоцировал интерес. Это же сделал и Рома, действенно, но не так красиво, как Kanye. Метод работы Kanye заключается в том, что он сначала наговорит провокационных заявлений, а потом дропает релиз.
+
+Наш русский Kanye West — это Евгений Понасенков, не без колхозности он создаёт мемы в Тик-Токе только ради того, чтобы люди купили его совершено немассовую книгу. Провоцируя колхозников, а потом их уничтожая.
+
+Но стоит всегда помнить — провокация всегда, помимо внимания, вызывает и ненависть.
+
+До новых встреч, мои дорогие колхозники. Если вам понравилось мое небольшое исследование, то распространяйте. Ведь колхозы опять хотят возобновить и тогда распространять будет поздно, это не шутка.
